@@ -1,0 +1,7 @@
+{
+    "name":"nodejs-express-on-qws-ec2",
+    "version":"8.0.1",
+    "dependencies":{
+        "express":"4.17.1"
+    }
+}
