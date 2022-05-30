@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-demo",
+  "name": "Simple-react-demo",
   "version": "8.0.1",
   "dependencies": {
     "express": "4.17.1"
